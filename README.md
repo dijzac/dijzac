@@ -1,4 +1,5 @@
-lzayyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy
+- know nothing
+- love everything
 
 <!---
 dijzac/dijzac is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
